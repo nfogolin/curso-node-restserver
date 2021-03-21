@@ -11,3 +11,9 @@ const Server = require('./models/server');
 const server = new Server();
 
 server.start();
+
+/*
+Cuenta de Github para hacer un git remote y poder linkearlo con Heroku y subirlo a un server de prueba gratuito.
+Usuario: nicolas.fogolin@gmail.com
+Password: Martoneto_349
+*/
